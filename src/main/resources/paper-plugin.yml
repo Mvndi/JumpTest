@@ -1,0 +1,7 @@
+name: $name
+version: $version
+main: net.mvndicraft.jumptest.JumpTestPlugin
+api-version: "$apiVersion"
+folia-supported: true
+authors: [ Hydrolien ]
+description: $description
